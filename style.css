@@ -755,6 +755,24 @@
         height: 7%;     
      }
 
+     .main .MID-side-main .side-main .top-box .Story .story-img-2 img {
+        height: 100%;
+        width: 129%;
+        border-radius: 5%;
+    }
+
+    .main .MID-side-main .side-main .top-box .Story .story-img-3 img {
+        height: 100%;
+        width: 129%;
+        border-radius: 5%;
+    }
+    .main .MID-side-main .side-main .top-box .Story .story-img-4 img {
+        height: 100%;
+        width: 129%;
+        border-radius: 5%;
+    }
+
+
 
     
 
