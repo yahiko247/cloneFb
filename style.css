@@ -694,7 +694,7 @@
 
     .Navbar{
         height: 100%;
-        width: 95vh;
+        width: 170%;
     }
 
     .left-side{
@@ -771,6 +771,7 @@
         width: 129%;
         border-radius: 5%;
     }
+
 
 
 
