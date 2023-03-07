@@ -519,6 +519,22 @@
    width: 100%;
  }
 
+ .main .MID-side-main .side-main .bot-box .news-feeds .Bot-picture .reaction{
+    margin-top:50px;
+    font-size: 30px;
+    margin-left: 5px;
+    display: flex; 
+    color: blue;
+    justify-content: space-evenly;
+  }
+  .main .MID-side-main .side-main .bot-box .news-feeds .Bot-picture .reaction .others{
+    margin-left: 5px;
+    color: aliceblue;
+    display: flex; 
+    justify-content: space-evenly;
+    width: 80%;
+  }
+
  .main .MID-side-main .side-main .bot-box .news-feeds .top-user .profile-pic{
     height: 60%;
     width: 50px;
@@ -535,6 +551,7 @@
     margin-left: 5px;
    
  }
+
  .main .MID-side-main .side-main .bot-box .news-feeds .top-user .name{
    
     height: 40%;
@@ -1394,5 +1411,10 @@
         border: 1px solid white;
         margin: 10px;
     }
+
+
+    .main .MID-side-main .side-main .bot-box .news-feeds .Bot-picture .reaction{
+      display: none;
+      }
 
 }
